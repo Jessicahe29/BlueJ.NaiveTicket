@@ -93,8 +93,7 @@ private int price;
 does it matter which order the three words appear in? 
 
 * Edit the `TicketMachine` class to try different orderings. After each change, close the editor.
-	* Does the appearance of the class diagram after each change give you a clue as to whether or not other orderings are
-possible?
+	* Does the appearance of the class diagram after each change give you a clue as to whether or not other orderings are possible?
 	* Check by pressing the compile button to see if there is an error message.
 	* Make sure that you reinstantiate the original version after your experiments!
 
